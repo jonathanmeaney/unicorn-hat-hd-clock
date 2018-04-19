@@ -12,6 +12,6 @@ Its not necessary to have a Unicorn Hat HD or a Raspberry Pi to run this program
 </p>
 You can get this handy tool at https://github.com/jayniz/unicorn-hat-sim . When I was happy with the code I ran it on the Raspberry Pi.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonathanmeaney/unicorn-hat-hd-clock/master/real-life.jpg">
+  <img width=500 src="https://raw.githubusercontent.com/jonathanmeaney/unicorn-hat-hd-clock/master/real-life.jpg">
 </p>
 
